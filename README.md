@@ -9,3 +9,8 @@ For trainning set, it contains 12 sets of data collected at different times in t
 In the RSS data files, there are 24 columns, where the columns from 1 to 22 represent RSS measurements from 22 access points (APs) and the columns from 23 to 24 denote the 2D location labels. In the IMU data files, 9 columns are contained in total, where the columns from 1 to 3 are the 3-axis accelerometer readings, the columns from 4 to 6 are the 3-axis gyroscope readings and the columns from 7 to 9 are the 3-axis magnetometer readings.
 
 For testing set, the data structure is identical with training set.
+
+
+DATASET 2
+
+This dataset contains RSS fingerprint data. Collecting by that a user holding a smartphone walk along with pre-defined straight paths. More than 200 APs are scanned in target space. Finally, 1481 training samples and 833 testing samples are collected for use. 
